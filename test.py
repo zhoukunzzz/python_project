@@ -8,5 +8,5 @@ a = []
 
 print(a)
     
-    
+print(b)
 print(a)
